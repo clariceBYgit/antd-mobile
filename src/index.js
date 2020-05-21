@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom';
 
 
 // 导入ant-design-mobile的样式的方式一
-import 'antd-mobile/dist/antd-mobile.css'; // or 'antd-mobile/dist/antd-mobile.less'
+// import 'antd-mobile/dist/antd-mobile.css'; // or 'antd-mobile/dist/antd-mobile.less'
 // import 'antd-mobile/dist/antd-mobile.less'
 
 // 导入ant-design-mobile的样式的方式二   按需加载
